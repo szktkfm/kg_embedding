@@ -1,4 +1,4 @@
-# Knowledge Embedding Models
+# Knowledge Graph Embedding Models
 MultiDist  
 TransE  
 reguralization TransE(embeddingの内積が小さくなるように)  
